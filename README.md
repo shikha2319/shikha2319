@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shikha</h1>
-<h3 align="center">I am a masters student from IIT Guwahati with a field of interest in Computer Network Security</h3>
+<h3 align="center">I am a masters student from IIT Guwahati with a field of interest in Computer Network</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shikha2319&label=Profile%20views&color=0e75b6&style=flat" alt="shikha2319" /> </p>
 
