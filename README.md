@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shikha2319" alt="shikha2319" /></a> </p>
 
-- 🔭 I’m currently working on **Masters Thesis Project**
+- 🔭 I’m currently working on **Masters Thesis Project "Misbehaviour Detection in 5G V2X Using Machine Learning Approach "**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
